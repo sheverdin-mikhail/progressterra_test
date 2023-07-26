@@ -1,0 +1,13 @@
+.MainPage {
+    background: linear-gradient(180deg, #D2333E 0%, #F54B55 100%);
+    padding: 20px;
+    position: relative;
+    min-height: 150px;
+}
+
+.card {
+    position: relative;
+    left: 0px;
+    top: -20px;
+    transform: translateY(-50%);
+}

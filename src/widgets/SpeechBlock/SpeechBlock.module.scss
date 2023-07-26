@@ -1,0 +1,16 @@
+.btn:not(:last-child) {
+    margin-bottom: 15px;
+}
+
+.text {
+    color: #000;
+    font-weight: 600;
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.SpeechBlock {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
